@@ -11,9 +11,10 @@ on consistent Pseudonymisation. A Dutch pseudonymisation dataset has been constr
 ## README
 This project has been developed starting in April 2023. Therefore, some packages and installations might need some older installations. This will all be explained here. 
 <br>
-This repository is called sezen_tuvay_pseudonymisation_in_dutch and also includes the e2e-Dutch-master repository, as well as sezen_scripts. This latter one includes all scripts for the pseudonymisation using the Coreference Resolution Model and the Flair NER-tagger and is the repository made for this Thesis project. This README only covers the scripts and datafiles which are created for the pseudonymisation. This means that the entire e2e-Dutch-master repository is only shortly explained, since this can be found in: <br>
+This repository is called sezen_tuvay_pseudonymisation_in_dutch and also includes the e2e-Dutch-master repository, as well as sezen_scripts. This latter one includes all scripts for the pseudonymisation using the Coreference Resolution Model and the Flair NER-tagger and is the repository made for this Thesis project. Only files in 'sezen_data' and 'sezen_scripts' are made by me. This README only covers the scripts and datafiles which are created for the pseudonymisation. This means that the entire e2e-Dutch-master repository is only shortly explained, since this can be found in: <br>
 https://github.com/Filter-Bubble/e2e-Dutch.<br>
-The README.md of the Filter-Bubble/e2e-Dutch repository is not included. (in contrast to this README.md) <br>
+The README.md of the Filter-Bubble/e2e-Dutch repository is included in the e2e-Dutch repository. (in contrast to this README.md) This, since the installation and running of the e2e requires some setup which is explained in that README.md
+<br>
 
 ## Environment
 Install all packages in a virtual environment to ensure all packages will have the correct versions (and not overlapping with other versions in the source). I have used a source environment. <br>
@@ -70,7 +71,7 @@ And replace sezen_data/output/ with the folder that the conll-file is in, and re
 sezen_data/output/annotated_13e_raadsvergadering_15_september_2022.conll -f conll sezen_data/not_annotated_text/annotated_13e_raadsvergadering_15_september_2022.txt     --> needs to be. <br> 
 
 ## Step 2:  Running the NER-model per file
-In sezen_scripts, a folder called 'NER' includes a file named: flair_on_conll.py. When this is called, all files are NER-tagged by Flair. It is important to mention that Flair needs Python 3.8 or higher. Therefore, to not change the versions and installments for the Coreference Model, it is easier to make a new directory and a new NER-script, and put sezen_data/output in this new directory and copy-paste the flair_on_conll.py to this new script. <br>
+In sezen_scripts, a folder called 'NER' includes a file named: flair_on_conll.py. When this is called, all files are NER-tagged by Flair. It is important to mention that Flair needs Python 3.8 or higher. Therefore, to not change the versions and installments for the Coreference Model, it is easier to make a new directory and a new NER-script, and put sezen_data/output in this new directory and copy-paste the flair_on_conll.py to this new script. This, since the Coreference Model has been set up in python 3.7<br>
 
 **output_ner_new**: this is the folder where the output of flair_on_conll.py needs to be <br>
 
