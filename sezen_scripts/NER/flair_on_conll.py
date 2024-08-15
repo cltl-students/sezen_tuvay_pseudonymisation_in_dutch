@@ -8,6 +8,8 @@ directory = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_
 def ner_tagging_a_file(file):
     """
     This function takes as input one file and uses Flair to NER-tag the tokens in this file. 
+    The input are the tokens of the output of the Coreference Resolution model, since the Coref model tokenizes 
+    differently. In order to run this file, it is necessary to use Python 3.8 
     """
     a_file = open(directory+file, "r", encoding='utf-8')
     text = a_file.readlines()
