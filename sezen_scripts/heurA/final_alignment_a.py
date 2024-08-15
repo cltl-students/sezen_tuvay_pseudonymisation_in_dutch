@@ -21,7 +21,6 @@ def final_alignment():
                     gold_pseudo = items.split('\t')[-1]
                     gold_pseudo = gold_pseudo.replace('-', '_')
                     gold_pseudo_list.append([gold_pseudo])
-                #print(file, len(gold_token_list))#, gold_token_list[0], gold_token_list[-1])
              
         if file != '.DS_Store':
             file = file.rstrip('.tsv')

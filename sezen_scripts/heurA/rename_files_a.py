@@ -16,6 +16,9 @@ file_tuples = [('File8','tokenized_tb_NL.IMRO.0439.BPWMW2011-on01_3_1_1'),
 
 import os
 import shutil
+
+# this file can be used to change the names of the files, in order to make the MUC-tables more readable. 
+
 old_directory = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/gold_model_combined_heuristics_a/'
 new_directory = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/renamed_gold_model_combined_heuristics_a/'
 for new_name, current_name in file_tuples:

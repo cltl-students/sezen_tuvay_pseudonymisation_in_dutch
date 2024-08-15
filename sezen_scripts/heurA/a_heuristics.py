@@ -8,6 +8,12 @@ import os
 import jsbeautifier
 
 def heuristics(file):
+    """
+    This function applies Heuristics A to one file. First, the file is opened from output_combined. Then, all possible persons are found.
+    Then, it finds the instances which are in the person list and the references to this. Then, I-PER is assigned to all pseudovalues
+    Then, when an etiquette is found, the first token is changed into a 'B_PER', the following tokens are kept 'I_PER'.
+    After this, single mentions are found and pseudo numbers are eventually made sequential
+    """
     data = []
     directory = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/output_combined/'
     with open(directory+file, "r") as infile:
@@ -17,6 +23,7 @@ def heuristics(file):
             info = {'token': row[1], 'coref': row[2].split('|'), 'ner': row[3], 'pseudo': []}
             data.append(info)
 
+    #in all coref-keys, all coref-numbers are given. 
     for i, labeled_token in enumerate(data):
         coref_labels = labeled_token['coref']
         if 'O' in coref_labels:
@@ -151,6 +158,9 @@ def heuristics(file):
 
 
 def heuristics_all_files():
+    """
+    This file applies the heuristics-function on all files in 'output_combined'.
+    """
     directory = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/output_combined/'
     for my_file in os.listdir(directory):
         if my_file != '.DS_Store':

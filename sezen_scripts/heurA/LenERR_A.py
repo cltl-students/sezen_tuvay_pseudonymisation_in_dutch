@@ -18,6 +18,9 @@ all_all =[]
 files = []
 
 
+#This code can be used to calculate the MUC-categories for the Lenient ERR. In here, COR is COR2. 
+
+
 def natural_sort_key(key):
             return [int(text) if text.isdigit() else text.lower() for text in re.split('(\d+)', key)]
 
@@ -55,7 +58,7 @@ for file in os.listdir(directory):
                     elif df.loc[i, 'gold'] == "['']" and df.loc[i, 'model'] == '[]':
                         NON += 1
                 for key, value in dict_in_INC.items(): 
-                    if value > 1:
+                    if value > 1: #when the same label is used more than once, so at least 2 times: PAR_COR is assigned +value. 
                         PART_COR += value
                     elif value == 1:
                         INC += 1  
@@ -69,7 +72,7 @@ for file in os.listdir(directory):
         header = ['files', 'COR', 'PAR', 'INC', 'MIS', 'SPU', 'NON']
         output_dict = {'file': files, 'COR': all_COR, 'PAR': all_PAR, 'INC': all_INC, 'MIS': all_MIS, 'SPU':all_SPU, 'NON':all_NON} 
         df = pd.DataFrame(output_dict).sort_values(by='file', key=lambda col: col.map(natural_sort_key))
-        df.to_csv('/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/muc_tables/LenERR_A.tsv', index=False, sep='\t', header=header)
+        df.to_csv('/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/muc_tables/LenERR_A_2.tsv', index=False, sep='\t', header=header)
 
                     
 

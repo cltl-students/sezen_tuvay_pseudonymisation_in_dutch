@@ -7,7 +7,6 @@ flair_model = SequenceTagger.load("flair/ner-dutch-large")
 directory = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/output copy/'
 def ner_tagging_a_file(file):
     """
-    param: 
     This function takes as input one file and uses Flair to NER-tag the tokens in this file. 
     """
     a_file = open(directory+file, "r", encoding='utf-8')

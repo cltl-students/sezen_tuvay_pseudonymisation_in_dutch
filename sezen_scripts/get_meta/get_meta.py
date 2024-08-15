@@ -5,8 +5,8 @@ from collections import defaultdict
 import csv
 import io
 # to do: add to dataframe!
-directory = '/Users/sezentuvay/Desktop/ALLES voor Thesis/e2e-Dutch-master/sezen_data/annotated-data/'
-directory2 = '/Users/sezentuvay/Desktop/ALLES voor Thesis/e2e-Dutch-master/sezen_data/not_annotated_text/'
+directory = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/annotated-data/'
+directory2 = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/not_annotated_text/'
 
 def meta_data(file):
     """

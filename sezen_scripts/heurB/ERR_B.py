@@ -21,6 +21,10 @@ etiquette = {
     'gemeenteraadslid', 'meester','minister','ombudsman','notaris','officier van justitie','burgemeester'
     'president','prins','prinses','generaal','professor','raadsheer','rechter','secretaris-generaal',
     'staatssecretaris','voorzitter','wethouder'}
+
+#This code can be used to calculate the MUC-categories for the ERR.
+
+
 def natural_sort_key(key):
             return [int(text) if text.isdigit() else text.lower() for text in re.split('(\d+)', key)]
 for file in os.listdir(directory):
@@ -39,10 +43,6 @@ for file in os.listdir(directory):
                 for i in range(len(df)):
                     if re.findall(r'\d+', str(df.loc[i, 'gold'])) != re.findall(r'\d+', str(df.loc[i, 'model'])) and len(df.loc[i, 'model']) > 3 and len(df.loc[i, 'gold']) > 4:
                         INC += 1   
-                        #AttributeError: 'float' object has no attribute 'lower'
-                        # if df.loc[i, 'token'].lower() == 'hij' and type(df.loc[i, 'token'].lower) != float:
-                        #     countertje += 1
-                        #     print(countertje)
                     elif str(df.loc[i, 'gold']).startswith("['B") and str(df.loc[i, 'model']).startswith("['I") and (re.findall(r'\d+', str(df.loc[i, 'gold'])) == re.findall(r'\d+', str(df.loc[i, 'model']))): 
                         PAR += 1
 

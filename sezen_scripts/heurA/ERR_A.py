@@ -24,7 +24,7 @@ etiquette = {
 def natural_sort_key(key):
             return [int(text) if text.isdigit() else text.lower() for text in re.split('(\d+)', key)]
 
-
+#This code can be used to calculate the MUC-categories for the ERR.
 
 for file in os.listdir(directory):
         if file != '.DS_Store':# and file == 'File11.json.tsv':

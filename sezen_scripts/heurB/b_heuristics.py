@@ -15,7 +15,15 @@ etiquette = {
     'gemeenteraadslid', 'meester','minister','ombudsman','notaris','officier van justitie','burgemeester',
     'president','prins','prinses','generaal','professor','raadsheer','rechter','secretaris-generaal',
     'staatssecretaris','voorzitter','wethouder'}
+
 def heuristics(file):
+    """
+    This function applies Heuristics B to one file. First, the file is opened from output_combined. Then, all pronouns are found. 
+    The coref-number that is attached to this pronoun is found and the persons which are referenced by with this pronoun are also found.
+    Then, I-PER is assigned to all pseudovalues. Then, when an etiquette is found, the first token is changed into a 'B_PER', 
+    the following tokens are kept 'I_PER'. After this, single mentions are found and 
+    pseudo numbers are eventually made sequential
+    """
     potential_persons_list = []
     persons_list = []
     data = []
@@ -62,8 +70,6 @@ def heuristics(file):
     #assumption: most surnames have: I, I, E. Never, I, I, I. 
     # 
     d = 10000
-    # print(file)
-    # print(i+2)
     for i, line in enumerate(data):
         if line['ner'] != 'O' and line['pseudo'] == []:
             if line['ner'].startswith('B-') and len(line['coref']) == 1:
@@ -143,9 +149,11 @@ def heuristics(file):
         big_dict.append(a_dic)
     json.dump(big_dict, outfile, indent=1)         
 
-#heuristics('annotated_13e_raadsvergadering_15_september_2022.tsv')
     
 def heuristics_all_files():
+    """
+    This file applies the heuristics-function on all files in 'output_combined'.
+    """
     directory = '/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/output_combined/'
     for my_file in os.listdir(directory):
         if my_file != '.DS_Store':
