@@ -107,17 +107,17 @@ ERR_A and ERR_B are used to calculate the ERR scores, and LenERR_A and LenERR_B 
 **DATAFOLDER: all data is in these kinds of folders: "/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/". however, when you want to reproduce this project, put all data folders where you want them.** <br>
 **not_annotated_text**: this is the folder where the not annotated text is in, and is used for metadata information
 **annotated-data**: this is the folder where the annotated-data is in and is in csv-format. The annotations have been performed in Google Spreadsheets and then downloaded as csv0files. In this folder these annotations exist. <br>
-**output copy:** this is the folder where the output of Step 1, running this in terminal (change file names): python -m e2edutch.predict -o sezen_data/output/annotated_13e_raadsvergadering_15_september_2022.conll -f conll sezen_data/not_annotated_text/annotated_13e_raadsvergadering_15_september_2022.txt     --> needs to be. 
-**output_ner_new**: this is the folder where the output of flair_on_conll.py needs to be
-**output_combined**: this is the folder where the output of combine_ner_coref.py needs to be
-**final_tokenized**: this is the folder where the output of the manual retokenization needs to be.This is needed for Step 4 and Step 5 (final_alignment_a.py and final_alignment_b.py). Since  the e2e model retokenizes the files in a very inconsistent way, this needed to be done manually. This has been explained in the Thesis. The old tokens are shifted to confirm the new tokenization (which is the same tokenization as the output of the e2e).  
-**pseudo-a**: this is the folder where the output of heurA.py needs to be 
-**pseudo-b**: this is the folder where the output of heurB.py needs to be 
-**gold_model_combined_heuristics_a**: this is the folder where the output of final_alignment_a.py needs to be 
-**gold_model_combined_heuristics_b**: this is the folder where the output of final_alignment_b.py needs to be 
-**renamed_gold_model_combined_heuristics_a**: this is the folder where the output of rename_files_a.py needs to be
-**renamed_gold_model_combined_heuristics_b**: this is the folder where the output of rename_files_b.py needs to be
-**muc_tables**: this is the folder where the output of LenERR_A.py ERR_A.py, LenERR_B.py and ERR_B.py needs to be
+**output copy:** this is the folder where the output of Step 1, running this in terminal (change file names): python -m e2edutch.predict -o sezen_data/output/annotated_13e_raadsvergadering_15_september_2022.conll -f conll sezen_data/not_annotated_text/annotated_13e_raadsvergadering_15_september_2022.txt     --> needs to be. <br>
+**output_ner_new**: this is the folder where the output of flair_on_conll.py needs to be <br>
+**output_combined**: this is the folder where the output of combine_ner_coref.py needs to be <br>
+**final_tokenized**: this is the folder where the output of the manual retokenization needs to be.This is needed for Step 4 and Step 5 (final_alignment_a.py and final_alignment_b.py). <br>Since  the e2e model retokenizes the files in a very inconsistent way, this needed to be done manually. This has been explained in the Thesis. The old tokens are shifted to confirm the new tokenization (which is the same tokenization as the output of the e2e).  <br>
+**pseudo-a**: this is the folder where the output of heurA.py needs to be <br>
+**pseudo-b**: this is the folder where the output of heurB.py needs to be <br>
+**gold_model_combined_heuristics_a**: this is the folder where the output of final_alignment_a.py needs to be  <br>
+**gold_model_combined_heuristics_b**: this is the folder where the output of final_alignment_b.py needs to be  <br>
+**renamed_gold_model_combined_heuristics_a**: this is the folder where the output of rename_files_a.py needs to be <br>
+**renamed_gold_model_combined_heuristics_b**: this is the folder where the output of rename_files_b.py needs to be <br>
+**muc_tables**: this is the folder where the output of LenERR_A.py ERR_A.py, LenERR_B.py and ERR_B.py needs to be <br>
 
 
 
