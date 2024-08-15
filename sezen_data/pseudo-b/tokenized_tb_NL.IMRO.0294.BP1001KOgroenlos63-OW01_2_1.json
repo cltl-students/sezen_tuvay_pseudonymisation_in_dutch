@@ -1,0 +1,4083 @@
+[
+ {
+  "token": "onderwerp",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geluidbelasting",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "tgv",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201c",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Harmonie",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201d",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "opdrachtnummer",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "09-127",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bestand",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "09-127b1",
+  "coref": [
+   "(0)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "doc",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bladzijde",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pagina",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "1",
+  "coref": [
+   "(1)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "2",
+  "coref": [
+   "(2)",
+   "(3"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "akoestie",
+  "coref": [
+   "3)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "k",
+  "coref": [
+   "(4)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ADVIESBUROVANDERBOOM",
+  "coref": [
+   "(5)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Lore",
+  "coref": [
+   "(6"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "eta",
+  "coref": [
+   "6)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Zaadmarkt",
+  "coref": [
+   "(7"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "87",
+  "coref": [
+   "7)",
+   "(8)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "sinds",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "1971",
+  "coref": [
+   "(9)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "7201",
+  "coref": [
+   "(10)",
+   "(11"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "DC",
+  "coref": [
+   "11)",
+   "(12)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Zutphen",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "telefoon",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "GEMEENTE",
+  "coref": [
+   "(13)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Wij",
+  "coref": [
+   "(14)"
+  ],
+  "ner": "O",
+  "pseudo": "['B_PER_1']"
+ },
+ {
+  "token": "Z8SWIJK",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "SENT",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "EE",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "NE",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "fax",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Sesent",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "|",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "P",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "0575-545648",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Architektenbureau",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "H.",
+  "coref": [],
+  "ner": "B-PER",
+  "pseudo": "['B_PER_2']"
+ },
+ {
+  "token": "ten",
+  "coref": [],
+  "ner": "I-PER",
+  "pseudo": "['I_PER_2']"
+ },
+ {
+  "token": "Dolle",
+  "coref": [],
+  "ner": "E-PER",
+  "pseudo": []
+ },
+ {
+  "token": "b.v",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bsite",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ee",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "U",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wekevndenanntes",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "nl",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Ligusterlaan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "18-22",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Dat.ontv.",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "0",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "7",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "JUN",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "2010",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "7101",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "WX",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "WINTERSWIJK",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "e-mail",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Nr.",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "brief",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u00e9",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "info@vanderboomadvies.nl",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "3303",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Beh.",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "|vaor",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Afgedaan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Par.",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "lid",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Afd",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Kv",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gecertificeerd",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Zutphen",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ",",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "29",
+  "coref": [
+   "(15"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "april",
+  "coref": [
+   "15"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "2010",
+  "coref": [
+   "15)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Geachte",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "heer",
+  "coref": [],
+  "ner": "O",
+  "pseudo": "['B_PER_2']"
+ },
+ {
+  "token": "Ten",
+  "coref": [],
+  "ner": "B-PER",
+  "pseudo": "['I_PER_2']"
+ },
+ {
+  "token": "Dolle",
+  "coref": [],
+  "ner": "E-PER",
+  "pseudo": "['I_PER_2']"
+ },
+ {
+  "token": ",",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "6",
+  "coref": [
+   "(16"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "mei",
+  "coref": [
+   "16"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "2009",
+  "coref": [
+   "16)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "hebben",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wij",
+  "coref": [
+   "(17)"
+  ],
+  "ner": "O",
+  "pseudo": "['B_PER_3']"
+ },
+ {
+  "token": "onderzoek",
+  "coref": [
+   "(18"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verricht",
+  "coref": [
+   "18"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "naar",
+  "coref": [
+   "18"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(19",
+   "18"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geluidbelasting",
+  "coref": [
+   "18",
+   "19"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "door",
+  "coref": [
+   "18",
+   "19"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wegverkeer",
+  "coref": [
+   "(20)",
+   "18",
+   "19"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [
+   "18",
+   "19"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(21",
+   "18",
+   "19"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouwing",
+  "coref": [
+   "18",
+   "19",
+   "21"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "18",
+   "19",
+   "21"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(22",
+   "18",
+   "19",
+   "21"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "18",
+   "19",
+   "21",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [
+   "18",
+   "19",
+   "21",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(23",
+   "18",
+   "19",
+   "21",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Groenloseweg",
+  "coref": [
+   "18",
+   "19",
+   "21",
+   "22",
+   "23"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "63",
+  "coref": [
+   "23)",
+   "18",
+   "19",
+   "21",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "18",
+   "19",
+   "21",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Winterswijk",
+  "coref": [
+   "22)",
+   "21)",
+   "19)",
+   "18)",
+   "(24)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "In",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aanvulling",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dit",
+  "coref": [
+   "(25"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "akoestisch",
+  "coref": [
+   "25"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "onderzoek",
+  "coref": [
+   "25"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ",",
+  "coref": [
+   "25"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "met",
+  "coref": [
+   "25"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "rapportnummer",
+  "coref": [
+   "(26",
+   "25"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "-9",
+  "coref": [
+   "(27",
+   "25",
+   "26"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "127r1",
+  "coref": [
+   "27)",
+   "26)",
+   "25)",
+   "(28)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ",",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "volgende",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ":",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Geluidbelasting",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "door",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "(29"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201c",
+  "coref": [
+   "29"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [
+   "(30",
+   "29"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Harmonie",
+  "coref": [
+   "30)",
+   "29)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201d",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Het",
+  "coref": [
+   "(31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouwen",
+  "coref": [
+   "31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "31)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ligt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "17",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "meter",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "uit",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grens",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201c",
+  "coref": [
+   "(32"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(30",
+   "32"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Harmonie",
+  "coref": [
+   "30)",
+   "32)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201d",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gelegen",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(33"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Groenloseweg",
+  "coref": [
+   "33"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "60",
+  "coref": [
+   "33"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "33"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Winterswijk",
+  "coref": [
+   "33)",
+   "(24)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Het",
+  "coref": [
+   "(31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "31)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ligt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "daarbij",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ca",
+  "coref": [
+   "(34"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "23",
+  "coref": [
+   "34"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "meter",
+  "coref": [
+   "34"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "uit",
+  "coref": [
+   "34"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(35",
+   "34"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gevel",
+  "coref": [
+   "34",
+   "35"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "34",
+   "35"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(36",
+   "34",
+   "35"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "feestzaal",
+  "coref": [
+   "34",
+   "35",
+   "36"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "34",
+   "35",
+   "36"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201c",
+  "coref": [
+   "(37",
+   "34",
+   "35",
+   "36"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [
+   "34",
+   "35",
+   "36",
+   "37"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Harmonie",
+  "coref": [
+   "34",
+   "35",
+   "36",
+   "37"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201d",
+  "coref": [
+   "34",
+   "35",
+   "36",
+   "37"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "(",
+  "coref": [
+   "34",
+   "35",
+   "36",
+   "37"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "zie",
+  "coref": [
+   "34",
+   "35",
+   "36",
+   "37"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "tekening",
+  "coref": [
+   "(38",
+   "34",
+   "35",
+   "36",
+   "37"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "1",
+  "coref": [
+   "38)",
+   "37)",
+   "36)",
+   "35)",
+   "34)",
+   "(39)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ")",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "In",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "deze",
+  "coref": [
+   "(40"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "feestzaal",
+  "coref": [
+   "40)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wordt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "muziekgeluid",
+  "coref": [
+   "(41)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ten",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gehore",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gebracht",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "met",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "hoge",
+  "coref": [
+   "(42"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geluidniveaus",
+  "coref": [
+   "42)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [
+   "(43"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "43)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dient",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldoen",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(44"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "44"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "uit",
+  "coref": [
+   "44"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(45",
+   "44"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Activiteitenbesluit",
+  "coref": [
+   "45)",
+   "44)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Deze",
+  "coref": [
+   "(46"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "46)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gelden",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(47"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gevels",
+  "coref": [
+   "47"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "47"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woningen",
+  "coref": [
+   "47)",
+   "(48)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Onderzocht",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dient",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "worden",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "of",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(49"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "49"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [
+   "49"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(50",
+   "49"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gevels",
+  "coref": [
+   "49",
+   "50"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "49",
+   "50"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(31",
+   "49",
+   "50"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "49",
+   "50",
+   "31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouwen",
+  "coref": [
+   "49",
+   "50",
+   "31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "31)",
+   "50)",
+   "49)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "niet",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "worden",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "overschreden",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "in",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geval",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dat",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "in",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(51"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "huidige",
+  "coref": [
+   "51"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "situatie",
+  "coref": [
+   "51)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(52"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "52)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wordt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldaan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "In",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dat",
+  "coref": [
+   "(53"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geval",
+  "coref": [
+   "53)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "zou",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(43"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "43)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "worden",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "beperkt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "in",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "zijn",
+  "coref": [
+   "(54)",
+   "(55"
+  ],
+  "ner": "O",
+  "pseudo": "['B_PER_4']"
+ },
+ {
+  "token": "bedrijfsvoering",
+  "coref": [
+   "55"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "na",
+  "coref": [
+   "55"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(56",
+   "55"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouw",
+  "coref": [
+   "55",
+   "56"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "55",
+   "56"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(31",
+   "55",
+   "56"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "31)",
+   "56)",
+   "55)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Maatgevende",
+  "coref": [
+   "(57"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "57)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "In",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(58"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "huidige",
+  "coref": [
+   "58"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "toestand",
+  "coref": [
+   "58)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dient",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(43"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "43)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(52"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "52"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "uit",
+  "coref": [
+   "52"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(45",
+   "52"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Activiteitenbesluit",
+  "coref": [
+   "45)",
+   "52)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldoen",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Indien",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(59"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "maatgevende",
+  "coref": [
+   "59"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "59)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(52"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "52)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wordt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldaan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wordt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ook",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(48"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "andere",
+  "coref": [
+   "48"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woningen",
+  "coref": [
+   "48)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(52"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "52)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldaan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "In",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dit",
+  "coref": [
+   "(60"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geval",
+  "coref": [
+   "60)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ligt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(59"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "maatgevende",
+  "coref": [
+   "59"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "59)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "13",
+  "coref": [
+   "(61"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "meter",
+  "coref": [
+   "61)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "uit",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(62"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grens",
+  "coref": [
+   "62"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "62"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(63",
+   "62"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "63)",
+   "62)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "(",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "zie",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "tekening",
+  "coref": [
+   "(64"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "1",
+  "coref": [
+   "64)",
+   "(65)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ")",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(67",
+   "(66"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "hoek",
+  "coref": [
+   "67",
+   "66"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "67",
+   "66"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(68",
+   "67",
+   "66"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Groenloseweg",
+  "coref": [
+   "68)",
+   "66)",
+   "67"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "en",
+  "coref": [
+   "67"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(69",
+   "67"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Haitsma",
+  "coref": [
+   "67",
+   "69"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Mulierweg",
+  "coref": [
+   "69)",
+   "67)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "energiebesparing",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "duurzame",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u00ebederg",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "i",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u00eb",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "onderwerp",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geluidbelasting",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "tgv",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201c",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Harmonie",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201d",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "opdrachtnummer",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "09-127",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bestand",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "09-127b1",
+  "coref": [
+   "(70)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "doc",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bladzijde",
+  "coref": [
+   "(72",
+   "(71"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pagina",
+  "coref": [
+   "(73",
+   "72",
+   "71"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "2",
+  "coref": [
+   "(74)",
+   "72",
+   "71",
+   "73"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "72",
+   "71",
+   "73"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "2",
+  "coref": [
+   "73)",
+   "71)",
+   "(75)",
+   "72"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [
+   "(76",
+   "72"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "maatgevende",
+  "coref": [
+   "72",
+   "76"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "76)",
+   "72)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ligt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "daarmee",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dichter",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bij",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(77"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grens",
+  "coref": [
+   "77"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "77"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(78",
+   "77"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "78)",
+   "77"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dan",
+  "coref": [
+   "77"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(31",
+   "77"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "77",
+   "31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouwen",
+  "coref": [
+   "77",
+   "31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "31)",
+   "77)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Daarbij",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ligt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "maatgevende",
+  "coref": [
+   "(57"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "57)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ook",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "nog",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "eens",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aanzienlijk",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dichter",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bij",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(79"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "feestzaal",
+  "coref": [
+   "79"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "79"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201c",
+  "coref": [
+   "(80",
+   "79"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [
+   "(81",
+   "79",
+   "80"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Harmonie",
+  "coref": [
+   "81)",
+   "80)",
+   "79)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "\u201d",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ",",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "namelijk",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "13",
+  "coref": [
+   "(84",
+   "(83",
+   "(82"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "meter",
+  "coref": [
+   "82)",
+   "84",
+   "83"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ipv",
+  "coref": [
+   "83)",
+   "(85)",
+   "84"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [
+   "84"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "23",
+  "coref": [
+   "(86",
+   "84"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "meter",
+  "coref": [
+   "86)",
+   "84)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Aangenomen",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "mag",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "worden",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dat",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "als",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(87"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geluidbelasting",
+  "coref": [
+   "87"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [
+   "87"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "maatgevende",
+  "coref": [
+   "(57",
+   "87"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "57)",
+   "87)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(88"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "88)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldoet",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dat",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ook",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(89"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "gevels",
+  "coref": [
+   "89"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "89"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(31",
+   "89"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "89",
+   "31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouwen",
+  "coref": [
+   "89",
+   "31"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "31)",
+   "89)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(90"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "eisen",
+  "coref": [
+   "90)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wordt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldaan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Conclusie",
+  "coref": [
+   "(91)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [
+   "(93",
+   "(92"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "maatgevende",
+  "coref": [
+   "93",
+   "92"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "93",
+   "92"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [
+   "93",
+   "92"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(94",
+   "93",
+   "92"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "hoek",
+  "coref": [
+   "93",
+   "92",
+   "94"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "93",
+   "92",
+   "94"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(68",
+   "93",
+   "92",
+   "94"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Groenloseweg",
+  "coref": [
+   "68)",
+   "94)",
+   "92)",
+   "93"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "en",
+  "coref": [
+   "93"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(69",
+   "93"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Haitsma",
+  "coref": [
+   "93",
+   "69"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Mulierweg",
+  "coref": [
+   "69)",
+   "93)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "ligt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dichter",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bij",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(95"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "95"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dan",
+  "coref": [
+   "95"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(22",
+   "95"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "95",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouwen",
+  "coref": [
+   "95",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "95",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [
+   "95",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(96",
+   "95",
+   "22"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Groenloseweg",
+  "coref": [
+   "95",
+   "22",
+   "96"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "63",
+  "coref": [
+   "96)",
+   "22)",
+   "95)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "en",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aanzienlijk",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dichter",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bij",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(97"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "feestzaal",
+  "coref": [
+   "97"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [
+   "97"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(43",
+   "97"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "43)",
+   "97)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [
+   "(98"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geluidbelasting",
+  "coref": [
+   "98"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [
+   "98"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(59",
+   "98"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "deze",
+  "coref": [
+   "98",
+   "59"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "59)",
+   "98)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "is",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "maatgevend",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voor",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(99"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geluidbelasting",
+  "coref": [
+   "99"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [
+   "99"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(100",
+   "99"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [
+   "99",
+   "100"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(101",
+   "99",
+   "100"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "99",
+   "100",
+   "101"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouwen",
+  "coref": [
+   "99",
+   "100",
+   "101"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "101)",
+   "100)",
+   "99)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Indien",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(59"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "maatgevende",
+  "coref": [
+   "59"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "woning",
+  "coref": [
+   "59)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(102"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "102"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "uit",
+  "coref": [
+   "102"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(103",
+   "102"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "bouwbesluit",
+  "coref": [
+   "103)",
+   "102)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wordt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldaan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wordt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "op",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [
+   "(104"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [
+   "104"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "verbouwen",
+  "coref": [
+   "104"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "pand",
+  "coref": [
+   "104)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "eveneens",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "aan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "de",
+  "coref": [
+   "(105"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "grenswaarden",
+  "coref": [
+   "105)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "voldaan",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "De",
+  "coref": [
+   "(43"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "inrichting",
+  "coref": [
+   "43)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "wordt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "derhalve",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "niet",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "in",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "zijn",
+  "coref": [
+   "(106)",
+   "(107"
+  ],
+  "ner": "O",
+  "pseudo": "['B_PER_5']"
+ },
+ {
+  "token": "bedrijfsvoering",
+  "coref": [
+   "107)"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "beperkt",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ".",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "In",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "het",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "vertrouwen",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "u",
+  "coref": [
+   "(108)"
+  ],
+  "ner": "O",
+  "pseudo": "['B_PER_6']"
+ },
+ {
+  "token": "hiermee",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "van",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "dienst",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "te",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "zijn",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "geweest",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ",",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Met",
+  "coref": [],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "vriendelijke",
+  "coref": [
+   "(110",
+   "(109"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "groet",
+  "coref": [
+   "109)",
+   "110"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": ",",
+  "coref": [
+   "110"
+  ],
+  "ner": "O",
+  "pseudo": []
+ },
+ {
+  "token": "Ad",
+  "coref": [
+   "(111",
+   "110"
+  ],
+  "ner": "B-PER",
+  "pseudo": "['B_PER_2']"
+ },
+ {
+  "token": "Postma",
+  "coref": [
+   "111)",
+   "110)"
+  ],
+  "ner": "E-PER",
+  "pseudo": "['I_PER_2']"
+ }
+]
