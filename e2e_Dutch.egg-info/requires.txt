@@ -1,0 +1,13 @@
+tensorflow>=2.0.0
+h5py
+pyhocon
+scipy
+scikit-learn
+torch<=1.7.1
+transformers<=3.5.1
+KafNafParserPy
+stanza
+
+[doc]
+sphinx
+m2r2
