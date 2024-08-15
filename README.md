@@ -9,9 +9,9 @@ on consistent Pseudonymisation. A Dutch pseudonymisation dataset has been constr
 
 ## README
 This project has been developed starting in April 2023. Therefore, some packages and installations might need some older installations. This will all be explained here. 
-
+<br>
 This repository is called ALLES_voor_Thesis and includes the e2e-Dutch-master repository, as well as sezen_scripts. This latter one includes all scripts for the pseudonymisation using the Coreference Resolution Model and the Flair NER-tagger and is the repository made for this project. This README only covers the scripts and datafiles which are created for the pseudonymisation. This means that the entire e2e-Dutch-master repository is only shortly explained, since this can be found in: 
-https://github.com/Filter-Bubble/e2e-Dutch.
+https://github.com/Filter-Bubble/e2e-Dutch.<br>
 The README.md of the Filter-Bubble/e2e-Dutch repository is still included and is called README.md (in contrast to this 'sezenREADME.md') 
 
 ## Environment
@@ -94,16 +94,16 @@ To run HeurB, first the script b_heuristics.py needs to be run. This script take
 rename_files_A.py and rename_files_B.py can be used to rename the files to File1, File2, etc. for readability purposes. ERR_A.py and LenERR_A.py are the python files which give the MUC-categories per file for HeurA. ERR_B.py and LenERR_B.py are the python files which give the MUC-categories per file for HeurB. 
 ERR_A and ERR_B are used to calculate the ERR scores, and LenERR_A and LenERR_B are used to calculate the lenient ERR-scores. 
 
-**renamed_gold_model_combined_heuristics_a**: this is the folder where the output of rename_files_a.py needs to be
-**renamed_gold_model_combined_heuristics_b**: this is the folder where the output of rename_files_b.py needs to be
-**muc_tables**: this is the folder where the output of LenERR_A.py ERR_A.py, LenERR_B.py and ERR_B.py needs to be
+**renamed_gold_model_combined_heuristics_a**: this is the folder where the output of rename_files_a.py needs to be<br>
+**renamed_gold_model_combined_heuristics_b**: this is the folder where the output of rename_files_b.py needs to be<br>
+**muc_tables**: this is the folder where the output of LenERR_A.py ERR_A.py, LenERR_B.py and ERR_B.py needs to be<br>
 
 
 
 
-**DATAFOLDER: all data is in these kinds of folders: "/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/". however, when you want to reproduce this project, put all data folders where you want them.**
+**DATAFOLDER: all data is in these kinds of folders: "/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/". however, when you want to reproduce this project, put all data folders where you want them.** <br>
 **not_annotated_text**: this is the folder where the not annotated text is in, and is used for metadata information
-**annotated-data**: this is the folder where the annotated-data is in and is in csv-format. The annotations have been performed in Google Spreadsheets and then downloaded as csv0files. In this folder these annotations exist. 
+**annotated-data**: this is the folder where the annotated-data is in and is in csv-format. The annotations have been performed in Google Spreadsheets and then downloaded as csv0files. In this folder these annotations exist. <br>
 **output copy:** this is the folder where the output of Step 1, running this in terminal (change file names): python -m e2edutch.predict -o sezen_data/output/annotated_13e_raadsvergadering_15_september_2022.conll -f conll sezen_data/not_annotated_text/annotated_13e_raadsvergadering_15_september_2022.txt     --> needs to be. 
 **output_ner_new**: this is the folder where the output of flair_on_conll.py needs to be
 **output_combined**: this is the folder where the output of combine_ner_coref.py needs to be
