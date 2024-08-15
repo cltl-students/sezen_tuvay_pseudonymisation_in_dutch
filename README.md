@@ -1,7 +1,7 @@
 # sezen_tuvay_pseudonymisation_in_dutch
 A framework for pseudonymisation in Dutch
 
-This repository belongs to the Master's Thesis Project "Towards a Dutch pseudonymisation Framework" by Sezen, supervised by Isa Maks. The project was carried out in collaboration with the company Bolesian.
+This repository belongs to the Master's Thesis Project "Towards a Dutch pseudonymisation Framework" by Sezen, supervised by Isa Maks. The project was carried out in collaboration with the company Bolesian. <br>
 
 This project investigates the task of Pseudonymisation in Dutch and builds a framework to achieve this task. Annotation Guidelines are established to provide instructions
 on consistent Pseudonymisation. A Dutch pseudonymisation dataset has been constructed. An existing Coreference Resolution model and an existing Named Entity Recognition tagger are integrated and new Heuristics are built to achieve the task. Heuristics A being a straightforward way of pseudonymisation, where persons are identified by the NER-tagger and its references are identified by the Coreference Resolution model. Heuristics B is a more advanced way, where the pronouns are used to find the persons, and the Coreference Resolution model identifies the references. These two Heuristics are tested and evaluated using the MUC evaluation metric. The findings indicate that Heuristics B is better at identifying coreference chains compared to Heuristics A. However, both Heuristics struggle to find the links between the chains. Although it is evident that personal names, pronouns and forms of address must be pseudonymised, there are still some cases where it is challenging to determine whether pseudonymisation is necessary. The findings also indicate that the end-to-end Coreference Resolution model is not well-suited for this task, since many error patterns which have been ascertained derive from the errors made by the Coreference Resolution model. 
@@ -12,19 +12,19 @@ This project has been developed starting in April 2023. Therefore, some packages
 <br>
 This repository is called ALLES_voor_Thesis and includes the e2e-Dutch-master repository, as well as sezen_scripts. This latter one includes all scripts for the pseudonymisation using the Coreference Resolution Model and the Flair NER-tagger and is the repository made for this project. This README only covers the scripts and datafiles which are created for the pseudonymisation. This means that the entire e2e-Dutch-master repository is only shortly explained, since this can be found in: 
 https://github.com/Filter-Bubble/e2e-Dutch.<br>
-The README.md of the Filter-Bubble/e2e-Dutch repository is still included and is called README.md (in contrast to this 'sezenREADME.md') 
+The README.md of the Filter-Bubble/e2e-Dutch repository is still included and is called README.md (in contrast to this 'sezenREADME.md') <br>
 
 ## Environment
 Install all packages in a virtual environment to ensure all packages will have the correct versions (and not overlapping with other versions in the source). I have used a source environment. 
 
 ## Requirements
 There are three different requirements.txt files in this entire repository. The most important one for my thesis is: sezenrequirements.txt. The packages in here are the following: 
-tensorflow>=2.0.0
-e2e-Dutch==0.4.1
-flair==0.12.2
-pandas==1.3.5
-nltk==3.8.1
-numpy==1.21.6
+tensorflow>=2.0.0<br>
+e2e-Dutch==0.4.1<br>
+flair==0.12.2<br>
+pandas==1.3.5<br>
+nltk==3.8.1<br>
+numpy==1.21.6<br>
 
 These all need to be installed to be able to run the code for the pseudonymisation. 
 
