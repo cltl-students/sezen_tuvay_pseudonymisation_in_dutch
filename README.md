@@ -11,9 +11,9 @@ on consistent Pseudonymisation. A Dutch pseudonymisation dataset has been constr
 ## README
 This project has been developed starting in April 2023. Therefore, some packages and installations might need some older installations. This will all be explained here. 
 <br>
-This repository is called ALLES_voor_Thesis and includes the e2e-Dutch-master repository, as well as sezen_scripts. This latter one includes all scripts for the pseudonymisation using the Coreference Resolution Model and the Flair NER-tagger and is the repository made for this project. This README only covers the scripts and datafiles which are created for the pseudonymisation. This means that the entire e2e-Dutch-master repository is only shortly explained, since this can be found in: <br>
+This repository is called sezen_tuvay_pseudonymisation_in_dutch and also includes the e2e-Dutch-master repository, as well as sezen_scripts. This latter one includes all scripts for the pseudonymisation using the Coreference Resolution Model and the Flair NER-tagger and is the repository made for this Thesis project. This README only covers the scripts and datafiles which are created for the pseudonymisation. This means that the entire e2e-Dutch-master repository is only shortly explained, since this can be found in: <br>
 https://github.com/Filter-Bubble/e2e-Dutch.<br>
-The README.md of the Filter-Bubble/e2e-Dutch repository is still included and is called README.md (in contrast to this 'sezenREADME.md') <br>
+The README.md of the Filter-Bubble/e2e-Dutch repository is not included. (in contrast to this README.md) <br>
 
 ## Environment
 Install all packages in a virtual environment to ensure all packages will have the correct versions (and not overlapping with other versions in the source). I have used a source environment. <br>
@@ -31,6 +31,7 @@ These all need to be installed to be able to run the code for the pseudonymisati
 
 The longrequirements.txt includes all the requirements within the environment, and when a package is unsuccesfully installed because of version faults, you can check here which version of the packages needs to be installed. Moreover, when the packages of sezenrequirements.txt are installed, packages in this longrequirements.txt are also installed. However, only the sezenrequirements.txt needs to be installed. The last requirements.txt file is of the e2e-Dutch-master repository (used later on as: pip install -r requirements.txt). <br>
 <br>
+
 ## Project Overview
 There are a few different steps taken in this project. All directories are in e2e-Dutch-master/scripta/sezen_scripts.  All datafolders are explained after each step in bold, as well as in the end. <br>
 Step 0: Capturing the metadata <br>
@@ -100,8 +101,6 @@ ERR_A and ERR_B are used to calculate the ERR scores, and LenERR_A and LenERR_B 
 **renamed_gold_model_combined_heuristics_a**: this is the folder where the output of rename_files_a.py needs to be<br>
 **renamed_gold_model_combined_heuristics_b**: this is the folder where the output of rename_files_b.py needs to be<br>
 **muc_tables**: this is the folder where the output of LenERR_A.py ERR_A.py, LenERR_B.py and ERR_B.py needs to be<br>
-
-
 
 
 **DATAFOLDER: all data is in these kinds of folders: "/Users/sezentuvay/Desktop/ALLES_voor_Thesis/e2e-Dutch-master/sezen_data/". however, when you want to reproduce this project, put all data folders where you want them.** <br>
